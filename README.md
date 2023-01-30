@@ -34,4 +34,4 @@ JAVA에 대한 특성 그리고 중요하다고 생각되는 부분들을 필기
 
 - [클래스와 객체(1)](https://github.com/shinwoos/JAVA-Basic/blob/master/class-and-object/class-and-object1.md)
 - [클래스와 객체(2)](https://github.com/shinwoos/JAVA-Basic/blob/master/class-and-object/class-and-object2.md)
-- [클래스와 객체(3)](https://github.com/shinwoos/JAVA-Basic/blob/master/class-and-object/class-and-object2-1.md)
+- [클래스와 객체2(1)](https://github.com/shinwoos/JAVA-Basic/blob/master/class-and-object/class-and-object2-1.md)
