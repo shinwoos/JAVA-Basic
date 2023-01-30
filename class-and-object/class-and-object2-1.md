@@ -48,3 +48,39 @@ public class thisExample {
 
 
 ```
+
+**생성자 오버로드와 생성자에서 생성자를 호출할 **
+
+---
+
+```java
+package test;
+
+class Person{
+    String name;
+    int age;
+    int a;
+
+    public Person(){
+        this("이름없음", 1); //호출할 때 데이터 타입이 맞으면 맞는 생성자 호출
+        // 생성자가 여러개여도 매개변수와 타입이 맞으면 알아서 매핑됨.
+        // 생성자에서 다른 생성자를 호출할땐 this 가 가장 앞에 있어야하는 statement이다.
+    }
+
+    public Person(String name, int age){
+        this.name = name;
+        this.age = age; //생성자 오버로딩
+    }
+}
+
+public class CallAnotherConst {
+
+    public static void main(String[] args) {
+        Person p1 = new Person();
+
+        System.out.println(p1.name);
+    }
+}
+
+
+```
