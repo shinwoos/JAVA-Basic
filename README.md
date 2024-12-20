@@ -45,4 +45,6 @@ JAVA에 대한 특성 그리고 중요하다고 생각되는 부분들을 필기
 
 ### 클래스 형변환
 
+---
+
 - [클래스 형변환](https://github.com/shinwoos/JAVA-Basic/blob/master/doc-dir/class-casting/class-casting1.md)
