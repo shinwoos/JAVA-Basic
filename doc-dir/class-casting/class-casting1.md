@@ -75,3 +75,26 @@ class Choco Extends Snack{
     }
 }
 ```
+
+- 또는 부모클래스를 자식클래스로 형변환 하면 가능하다.
+- 하지만 snack의 인스턴스를 Choco가 아닌 Snack으로 초기화 시 형변환은 안된다.
+
+```java
+class CastClass{
+    public static void main(String[] args){
+        Snack snack = new Choco();
+        Choco choco = (Choco) snack;
+                choco.flavor();
+    }
+}
+
+class Snack{
+
+}
+
+class Choco Extends Snack{
+    public void flavor(){
+        System.out.println("달콤 쌉싸름");
+    }
+}
+```

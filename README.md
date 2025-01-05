@@ -24,6 +24,8 @@
 
 - [Annotation](#Annotation)
 
+- [Interface](#Interface)
+
 <br>
 <br>
 
@@ -117,3 +119,12 @@ JAVA에 대한 특성 그리고 중요하다고 생각되는 부분들을 필기
 ---
 
 - [@Override](https://github.com/shinwoos/JAVA-Basic/blob/master/doc-dir/Annotation/Override.md)
+
+<br>
+<br>
+<br>
+<br>
+
+### Interface
+
+- [Interface](https://github.com/shinwoos/JAVA-Basic/blob/master/doc-dir/interface/interface.md)
