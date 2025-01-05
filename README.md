@@ -26,6 +26,8 @@
 
 - [Interface](#Interface)
 
+- [Exception and throws](#Exception-and-throws)
+
 <br>
 <br>
 
@@ -127,4 +129,18 @@ JAVA에 대한 특성 그리고 중요하다고 생각되는 부분들을 필기
 
 ### Interface
 
+---
+
 - [Interface](https://github.com/shinwoos/JAVA-Basic/blob/master/doc-dir/interface/interface.md)
+
+<br>
+<br>
+<br>
+<br>
+
+### Exception-and-throws
+
+---
+
+- [Exception](https://github.com/shinwoos/JAVA-Basic/blob/master/doc-dir/exception/exception.md)
+- [throws](https://github.com/shinwoos/JAVA-Basic/blob/master/doc-dir/exception-and-throws/throws.md)
