@@ -142,5 +142,6 @@ JAVA에 대한 특성 그리고 중요하다고 생각되는 부분들을 필기
 
 ---
 
-- [Exception](https://github.com/shinwoos/JAVA-Basic/blob/master/doc-dir/exception/exception.md)
+- [Exception](https://github.com/shinwoos/JAVA-Basic/blob/master/doc-dir/exception-and-throws/exception.md)
 - [throws](https://github.com/shinwoos/JAVA-Basic/blob/master/doc-dir/exception-and-throws/throws.md)
+- [Exception 발생시키기](https://github.com/shinwoos/JAVA-Basic/blob/master/doc-dir/exception-and-throws/throws.md)
